@@ -40,7 +40,7 @@ export function About() {
           </div>
           <div className="flex flex-col justify-center gap-6 text-lg leading-relaxed text-muted-foreground">
             <p className="text-pretty">
-              VOLTA nació para romper el modelo de las agencias gigantes y lentas.
+              Órbita nació para romper el modelo de las agencias gigantes y lentas.
               Somos un equipo compacto y senior que trabaja codo con codo contigo,
               sin intermediarios ni capas innecesarias.
             </p>

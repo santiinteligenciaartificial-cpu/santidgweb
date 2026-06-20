@@ -11,9 +11,9 @@ const anton = Anton({
 })
 
 export const metadata: Metadata = {
-  title: 'VOLTA® — Agencia Creativa Full-Service',
+  title: 'Órbita® — Agencia Creativa Full-Service',
   description:
-    'VOLTA es una agencia creativa full-service. Branding, marketing y producto digital con energía. Pocas mentes haciendo el trabajo de muchas.',
+    'Órbita es una agencia creativa full-service. Branding, marketing y producto digital con energía. Pocas mentes haciendo el trabajo de muchas.',
   generator: 'v0.app',
   icons: {
     icon: [

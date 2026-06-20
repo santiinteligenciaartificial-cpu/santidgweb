@@ -32,10 +32,10 @@ export function Contact() {
                   Nuevos proyectos
                 </p>
                 <a
-                  href="mailto:hola@volta.studio"
+                  href="mailto:hola@orbita.studio"
                   className="font-heading text-2xl tracking-tight underline-offset-4 hover:underline md:text-3xl"
                 >
-                  hola@volta.studio
+                  hola@orbita.studio
                 </a>
               </div>
               <div>

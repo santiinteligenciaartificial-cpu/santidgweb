@@ -18,7 +18,7 @@ export function Hero() {
 
         <div className="mt-10 grid gap-8 border-t border-border pt-8 md:grid-cols-[1.5fr_1fr] md:items-end">
           <p className="max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground md:text-xl">
-            Somos VOLTA, un colectivo de estrategas, diseñadores y desarrolladores.
+            Somos Órbita, un colectivo de estrategas, diseñadores y desarrolladores.
             Convertimos marcas en movimientos: branding, campañas y producto digital
             bajo un mismo techo.
           </p>

@@ -16,10 +16,10 @@ export function SiteHeader() {
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-border bg-background/80 backdrop-blur-md">
       <div className="mx-auto flex max-w-[1600px] items-center justify-between px-5 py-4 md:px-10">
-        <a href="#top" className="flex items-center" aria-label="VOLTA — Inicio">
+        <a href="#top" className="flex items-center" aria-label="Órbita — Inicio">
           <img
             src="/logo.svg"
-            alt="VOLTA"
+            alt="Órbita"
             className="h-7 w-auto md:h-8"
           />
         </a>

@@ -29,7 +29,7 @@ export function SiteFooter() {
         </div>
 
         <div className="flex flex-wrap items-center justify-between gap-4 border-t border-border py-6 text-xs text-muted-foreground">
-          <span>© {new Date().getFullYear()} VOLTA® Studio. Todos los derechos reservados.</span>
+          <span>© {new Date().getFullYear()} Órbita® Studio. Todos los derechos reservados.</span>
           <span>Madrid — Worldwide</span>
         </div>
       </div>
@@ -37,7 +37,7 @@ export function SiteFooter() {
       <div className="overflow-hidden pb-8 pt-4">
         <img
           src="/logo.svg"
-          alt="VOLTA"
+          alt="Órbita"
           className="h-auto w-full"
         />
       </div>
