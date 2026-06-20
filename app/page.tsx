@@ -6,6 +6,7 @@ import { About } from "@/components/about"
 import { Team } from "@/components/team"
 import { Contact } from "@/components/contact"
 import { SiteFooter } from "@/components/site-footer"
+import { HandScrollControl } from "@/components/hand-scroll-control"
 
 export default function Page() {
   return (
