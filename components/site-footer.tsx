@@ -34,10 +34,12 @@ export function SiteFooter() {
         </div>
       </div>
 
-      <div className="-mb-[2vw] overflow-hidden">
-        <h2 className="font-heading text-[24vw] leading-[0.75] tracking-tight text-foreground">
-          VOLTA<span className="text-primary">®</span>
-        </h2>
+      <div className="overflow-hidden pb-8 pt-4">
+        <img
+          src="/logo.svg"
+          alt="VOLTA"
+          className="h-auto w-full"
+        />
       </div>
     </footer>
   )

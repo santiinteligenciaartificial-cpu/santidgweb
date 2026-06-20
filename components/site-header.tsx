@@ -18,9 +18,9 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-[1600px] items-center justify-between px-5 py-4 md:px-10">
         <a href="#top" className="flex items-center" aria-label="VOLTA — Inicio">
           <img
-            src="/logo.png"
+            src="/logo.svg"
             alt="VOLTA"
-            className="h-10 w-auto md:h-12"
+            className="h-7 w-auto md:h-8"
           />
         </a>
 
